@@ -35,7 +35,7 @@ The Colorbox Helper is a JavaScript function designed to simplify the process of
     Optionally include custom functions (`onOpenedMethod`, `onCompleteMethod`, `onCloseMethod`) to execute specific actions during different stages of Colorbox interaction.
 
 ## Example
-    ```javascript
+    ```
     openColorboxWithOptions({
         href: 'path/to/image.jpg',
         title: 'Image Title',
